@@ -8,9 +8,9 @@ String copilot = "";
 boolean viewscreen = true; //powers up main viewscreen
 boolean displays = true; //powers up left and right cockpit displays
 boolean attitudeControl = true;
-boolean artificialGravity = false;
-boolean sensors = false; //turns on sensors
-boolean parkingBrake = true;
+boolean artificialGravity = true;
+boolean sensors = true; //turns on sensors
+boolean parkingBrake = false;
 boolean shields = false; //turns on shields
 
 boolean redAlert = false; //turns on red alert
